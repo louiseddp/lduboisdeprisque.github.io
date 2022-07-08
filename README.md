@@ -1,3 +1,2 @@
-# Louise 
-# Dubois de Prisque
+# Louise Dubois de Prisque
 # PhD Student
