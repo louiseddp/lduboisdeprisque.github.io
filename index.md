@@ -2,7 +2,9 @@
 
 Hello everyone!
 I am Louise Dubois de Prisque, a PhD student member of the Deducteam at the [LMF](https://lmf.cnrs.fr/) located at the ENS Paris-Saclay. 
+
 My supervisors are [Chantal Keller](https://www.lri.fr/~keller/) and [Valentin Blot](https://valentinblot.org/pro/).
+
 The subject of my thesis is to improve the automation of the [Coq proof assistant](https://coq.inria.fr/) by writing certifying compositional transformations from the logic of Coq to a simpler logic which can be handled by automatic provers.
 To achieve this goal, my supervisors, a postdoc [Pierre Vial](https://pierrevial.github.io/) and me are developing a Coq plugin called [Sniper](https://github.com/smtcoq/sniper).
 
@@ -21,6 +23,5 @@ To achieve this goal, my supervisors, a postdoc [Pierre Vial](https://pierrevial
 
 ## Teaching
 
-* 2020-2021: Logic, OCaml, Algorithmic
 * 2021-2022: Logic, Compilation, Data Bases (SQL)
-
+* 2020-2021: Logic, OCaml, Algorithmic
