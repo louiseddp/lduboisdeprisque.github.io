@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Presentation
 
-You can use the [editor on GitHub](https://github.com/louiseddp/lduboisdeprisque.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello everyone!
+I am Louise Dubois de Prisque, a PhD student member of the Deducteam at the [LMF](https://lmf.cnrs.fr/) located at the ENS Paris-Saclay. 
+My supervisors are [Chantal Keller](https://www.lri.fr/~keller/) and [Valentin Blot](https://valentinblot.org/pro/).
+The subject of my thesis is to improve the automation of the [Coq proof assistant] (https://coq.inria.fr/) by writing certifying compositional transformations from the logic of Coq to a simpler logic which can be handled by automatic provers.
+To achieve this goal, my supervisors, a postdoc [Pierre Vial](https://pierrevial.github.io/) and me are developing a Coq plugin called [Sniper](https://github.com/smtcoq/sniper).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Published papers
 
-### Markdown
+* [General automation through modular transformations (at PxTP 21)](https://pxtp.gitlab.io/2021/papers/Blot-et-al_Automation-modular-transformation.pdf) joint work with Valentin Blot, Chantal Keller and Pierre Vial.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Talks
 
-```markdown
-Syntax highlighted code block
+* [JFLA 2022](https://hal.archives-ouvertes.fr/hal-03604902/document)
+* [CHoCoLa seminar](https://chocola.ens-lyon.fr/events/meeting-2022-06-02/talks/de-prisque/)
+ 
+## Preprints
 
-# Header 1
-## Header 2
-### Header 3
+* [Modular pre-processing for automated reasoning in dependent type theory](https://arxiv.org/pdf/2204.02643.pdf) joint work with Valentin Blot, Denis Cousineau, Enzo Crance, Chantal Keller, Assia Mahboubi
 
-- Bulleted
-- List
+## Teaching
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/louiseddp/lduboisdeprisque.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
