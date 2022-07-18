@@ -8,7 +8,7 @@ To achieve this goal, my supervisors, a postdoc [Pierre Vial](https://pierrevial
 
 ## Published papers
 
-* [General automation through modular transformations (at PxTP 21)](https://pxtp.gitlab.io/2021/papers/Blot-et-al_Automation-modular-transformation.pdf) joint work with Valentin Blot, Chantal Keller and Pierre Vial.
+* [General automation through modular transformations (at PxTP 21)](https://pxtp.gitlab.io/2021/papers/Blot-et-al_Automation-modular-transformation.pdf) joint work with Valentin Blot, Chantal Keller and Pierre Vial
 
 ## Talks
 
@@ -17,7 +17,10 @@ To achieve this goal, my supervisors, a postdoc [Pierre Vial](https://pierrevial
  
 ## Preprints
 
-* [Modular pre-processing for automated reasoning in dependent type theory](https://arxiv.org/pdf/2204.02643.pdf) joint work with Valentin Blot, Denis Cousineau, Enzo Crance, Chantal Keller, Assia Mahboubi
+* [Modular pre-processing for automated reasoning in dependent type theory](https://arxiv.org/pdf/2204.02643.pdf) joint work with Valentin Blot, Denis Cousineau, Enzo Crance, Chantal Keller, Assia Mahboubi and Pierre Vial
 
 ## Teaching
+
+* 2020-2021: Logic, OCaml, Algorithmic
+* 2021-2022: Logic, Compilation, Data Bases (SQL)
 
