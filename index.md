@@ -11,7 +11,7 @@ To achieve this goal, my supervisors, a postdoc [Pierre Vial](https://pierrevial
 ## Published papers
 
 * [General automation through modular transformations (at PxTP 21)](https://pxtp.gitlab.io/2021/papers/Blot-et-al_Automation-modular-transformation.pdf) joint work with Valentin Blot, Chantal Keller and Pierre Vial
-* [Bécassine à la Chasse au Coq (démonstration) (JFLA 2022 (in French))](https://hal.archives-ouvertes.fr/hal-03604902/document)
+* [Bécassine à la Chasse au Coq (démonstration) (at JFLA 2022)](https://hal.archives-ouvertes.fr/hal-03604902/document) (in French)
 
 ## Talks
 
