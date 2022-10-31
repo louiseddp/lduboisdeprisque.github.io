@@ -19,7 +19,7 @@ To achieve this goal, my supervisors, a postdoc [Pierre Vial](https://pierrevial
  
 ## Preprints
 
-* [MCompositional pre-processing for automated reasoning in dependent type theory](https://arxiv.org/pdf/2204.02643.pdf) joint work with Valentin Blot, Denis Cousineau, Enzo Crance, Chantal Keller, Assia Mahboubi and Pierre Vial
+* [Compositional pre-processing for automated reasoning in dependent type theory](https://arxiv.org/pdf/2204.02643.pdf) joint work with Valentin Blot, Denis Cousineau, Enzo Crance, Chantal Keller, Assia Mahboubi and Pierre Vial
 
 ## Teaching
 
