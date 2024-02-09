@@ -10,14 +10,14 @@ To achieve this goal, my supervisors, a former postdoc [Pierre Vial](https://pie
 
 ## Published papers
 
-* [Décision de relations inductives pour SMTCoq (démonstration d'un prototype) (at JFLA 2023)](https://hal.inria.fr/JFLA2023/hal-04000669) (in French)
+* [Décision de relations inductives pour SMTCoq (démonstration d'un prototype) (at JFLA 2023)](https://hal.inria.fr/JFLA2023/hal-04000669) (in French), [talk here](https://jfla.inria.fr/static/slides/jfla2024-DuboisDePrisque.pdf)
 * [Compositional pre-processing for automated reasoning in dependent type theory (at CPP 23)](https://hal.science/UNAM/hal-03901019v2) joint work with Valentin Blot, Denis Cousineau, Enzo Crance, Chantal Keller, Assia Mahboubi and Pierre Vial
 * [Bécassine à la Chasse au Coq (démonstration) (at JFLA 2022)](https://hal.archives-ouvertes.fr/hal-03604902/document) (in French)
 * [General automation through modular transformations (at PxTP 2021)](https://pxtp.gitlab.io/2021/papers/Blot-et-al_Automation-modular-transformation.pdf) joint work with Valentin Blot, Chantal Keller and Pierre Vial
 
 ## Talks
 
-* [Formath seminar] (https://www.irif.fr/seminaires/picube/index)
+* [Formath seminar](https://www.irif.fr/seminaires/picube/index)
 * [CHoCoLa seminar](https://chocola.ens-lyon.fr/events/meeting-2022-06-02/talks/de-prisque/)
 
 ## Teaching
