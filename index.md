@@ -29,4 +29,4 @@ To achieve this goal, my supervisors, a former postdoc [Pierre Vial](https://pie
 
 ## Master's Thesis
 
-The link is available [here](https://inria.hal.science/hal-04486654)(in French)
+The link is available [here](https://inria.hal.science/hal-04486654) (in French)
