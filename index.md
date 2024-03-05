@@ -26,3 +26,7 @@ To achieve this goal, my supervisors, a former postdoc [Pierre Vial](https://pie
 * 2021-2022: Logic, Compilation, Data Bases (SQL)
 * 2020-2021: Logic, OCaml, Algorithmic
 * 2017-2018: Mathematics, Philosophy (at high school level)
+
+## Master's Thesis
+
+The link is available [here](https://inria.hal.science/hal-04486654)(in French)
