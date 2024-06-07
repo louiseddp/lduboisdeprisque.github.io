@@ -30,7 +30,7 @@ To achieve this goal, my supervisors, a former postdoc [Pierre Vial](https://pie
 
 ## PhD Thesis
 
-A version of my manuscrit is available [here](./these.pdf)
+A version of my manuscrit is available [here](./these.pdf) (in French)
 
 ## Master's Thesis
 
